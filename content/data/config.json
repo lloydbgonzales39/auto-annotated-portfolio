@@ -13,11 +13,6 @@
                 "label": "Spotify",
                 "url": "https://open.spotify.com/artist/3Vu30gqmIPfPYsrp0mPDpt",
                 "altText": "Spotify"
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
             }
         ],
         "socialLinks": [
