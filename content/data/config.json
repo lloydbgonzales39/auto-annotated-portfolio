@@ -11,7 +11,8 @@
             {
                 "type": "Link",
                 "label": "Spotify",
-                "url": "https://open.spotify.com/artist/3Vu30gqmIPfPYsrp0mPDpt"
+                "url": "https://open.spotify.com/artist/3Vu30gqmIPfPYsrp0mPDpt",
+                "altText": "Spotify"
             },
             {
                 "type": "Link",
