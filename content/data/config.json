@@ -34,7 +34,7 @@
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
+                "altText": "Spotify",
                 "label": "Spotify",
                 "url": "https://github.com/netlify-templates",
                 "icon": "github"
