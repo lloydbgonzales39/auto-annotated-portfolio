@@ -22,13 +22,6 @@
                 "label": "YouTube",
                 "url": "https://www.youtube.com/channel/UCUUzigQXvWSzJIp5jsuLQlQ",
                 "icon": "youtube"
-            },
-            {
-                "type": "Social",
-                "altText": "Spotify",
-                "label": "Spotify",
-                "url": "https://open.spotify.com/artist/3Vu30gqmIPfPYsrp0mPDpt",
-                "icon": "vimeo"
             }
         ],
         "styles": {
