@@ -22,6 +22,14 @@
                 "label": "YouTube",
                 "url": "https://www.youtube.com/channel/UCUUzigQXvWSzJIp5jsuLQlQ",
                 "icon": "youtube"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "@thomasdaisyolivia",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {
