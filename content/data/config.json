@@ -60,7 +60,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "",
-            "phoneAltText": "Call us",
+            "phoneAltText": "",
             "email": "denisjacob6719@gmail.com",
             "emailAltText": "Email us",
             "address": "37 Wood Lane Ashford TN23 3AQ",
