@@ -59,7 +59,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "",
             "phoneAltText": "Call us",
             "email": "denisjacob6719@gmail.com",
             "emailAltText": "Email us",
