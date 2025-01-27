@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: "\U0001F33F Name:\_Thomas Daisy Olivia\_ \_ \_ \_ \U0001F3B6 Genre:\_Lo-Fi, Chillhop, Dreamy Pop\_\U0001F4CD Based in: London, UK"
-    subtitle: ''
+    subtitle: Thomas Daisy Olivia
     actions: []
     media:
       type: ImageBlock
