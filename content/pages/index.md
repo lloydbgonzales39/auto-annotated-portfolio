@@ -16,7 +16,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/award9.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
