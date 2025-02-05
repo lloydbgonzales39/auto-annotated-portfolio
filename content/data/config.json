@@ -13,6 +13,16 @@
                 "label": "Spotify",
                 "url": "https://open.spotify.com/artist/3Vu30gqmIPfPYsrp0mPDpt",
                 "altText": "Spotify"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "www.imdb.com/name/nm16939929/?ref_=nmbio_ov",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
