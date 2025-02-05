@@ -17,7 +17,7 @@
             {
                 "type": "Link",
                 "label": "IMBD",
-                "altText": "",
+                "altText": "IMBD",
                 "url": "www.imdb.com/name/nm16939929/?ref_=nmbio_ov",
                 "showIcon": false,
                 "icon": "arrowRight",
